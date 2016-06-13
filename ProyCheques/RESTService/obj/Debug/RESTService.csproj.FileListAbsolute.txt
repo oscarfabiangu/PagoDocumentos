@@ -1,0 +1,5 @@
+D:\UPC\DSD\ProyCheques\RESTService\bin\RESTService.dll.config
+D:\UPC\DSD\ProyCheques\RESTService\bin\RESTService.dll
+D:\UPC\DSD\ProyCheques\RESTService\bin\RESTService.pdb
+D:\UPC\DSD\ProyCheques\RESTService\obj\Debug\RESTService.dll
+D:\UPC\DSD\ProyCheques\RESTService\obj\Debug\RESTService.pdb

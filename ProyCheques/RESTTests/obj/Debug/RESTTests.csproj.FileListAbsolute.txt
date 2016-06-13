@@ -1,0 +1,5 @@
+D:\UPC\DSD\ProyCheques\RESTTests\bin\Debug\RESTTests.dll
+D:\UPC\DSD\ProyCheques\RESTTests\bin\Debug\RESTTests.pdb
+D:\UPC\DSD\ProyCheques\RESTTests\obj\Debug\RESTTests.csprojResolveAssemblyReference.cache
+D:\UPC\DSD\ProyCheques\RESTTests\obj\Debug\RESTTests.dll
+D:\UPC\DSD\ProyCheques\RESTTests\obj\Debug\RESTTests.pdb
